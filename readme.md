@@ -17,9 +17,6 @@ We will help you install
 
 ### Links from course examples
 - Basic Resources
-  - http://localhost:8080/hello-world
-  - http://localhost:8080/hello-world-bean
-  - http://localhost:8080/hello-world/path-variable/Ranga
   - http://localhost:8080/users/
   - http://localhost:8080/users/1
 - JPA Resources
